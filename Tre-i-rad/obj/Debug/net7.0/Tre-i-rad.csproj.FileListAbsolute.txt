@@ -1,0 +1,162 @@
+E:\Övriga Projekt\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.exe
+E:\Övriga Projekt\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.deps.json
+E:\Övriga Projekt\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.runtimeconfig.json
+E:\Övriga Projekt\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.dll
+E:\Övriga Projekt\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.pdb
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.AssemblyReference.cache
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfoInputs.cache
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfo.cs
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CoreCompileInputs.cache
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.dll
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\refint\Tre-i-rad.dll
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.pdb
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.genruntimeconfig.cache
+E:\Övriga Projekt\Tre-i-rad\obj\Debug\net7.0\ref\Tre-i-rad.dll
+E:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.exe
+E:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.deps.json
+E:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.runtimeconfig.json
+E:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.dll
+E:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.pdb
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfoInputs.cache
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfo.cs
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CoreCompileInputs.cache
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.dll
+E:\Tre-i-rad\obj\Debug\net7.0\refint\Tre-i-rad.dll
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.pdb
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.genruntimeconfig.cache
+E:\Tre-i-rad\obj\Debug\net7.0\ref\Tre-i-rad.dll
+D:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.exe
+D:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.deps.json
+D:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.runtimeconfig.json
+D:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.dll
+D:\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.pdb
+D:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.AssemblyReference.cache
+D:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfoInputs.cache
+D:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfo.cs
+D:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CoreCompileInputs.cache
+D:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.dll
+D:\Tre-i-rad\obj\Debug\net7.0\refint\Tre-i-rad.dll
+D:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.pdb
+D:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.genruntimeconfig.cache
+D:\Tre-i-rad\obj\Debug\net7.0\ref\Tre-i-rad.dll
+E:\Tre-i-rad\bin\Debug\net7.0\NAudio.dll
+E:\Tre-i-rad\bin\Debug\net7.0\NAudio.Asio.dll
+E:\Tre-i-rad\bin\Debug\net7.0\NAudio.Core.dll
+E:\Tre-i-rad\bin\Debug\net7.0\NAudio.Midi.dll
+E:\Tre-i-rad\bin\Debug\net7.0\NAudio.Wasapi.dll
+E:\Tre-i-rad\bin\Debug\net7.0\NAudio.WinMM.dll
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.AssemblyReference.cache
+E:\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CopyComplete
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.exe
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.deps.json
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.runtimeconfig.json
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.pdb
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Asio.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Core.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Midi.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Wasapi.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.WinMM.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.AssemblyReference.cache
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfoInputs.cache
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfo.cs
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CoreCompileInputs.cache
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CopyComplete
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\refint\Tre-i-rad.dll
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.pdb
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.genruntimeconfig.cache
+E:\Övriga Projekt\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\ref\Tre-i-rad.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.exe
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.deps.json
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.runtimeconfig.json
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.pdb
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Asio.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Core.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Midi.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Wasapi.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.WinMM.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.AssemblyReference.cache
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.GeneratedMSBuildEditorConfig.editorconfig
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfoInputs.cache
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfo.cs
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CoreCompileInputs.cache
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CopyComplete
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\refint\Tre-i-rad.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.pdb
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.genruntimeconfig.cache
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\ref\Tre-i-rad.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.exe
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.deps.json
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.runtimeconfig.json
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.pdb
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Asio.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Core.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Midi.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.Wasapi.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\bin\Debug\net7.0\NAudio.WinMM.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.AssemblyReference.cache
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfoInputs.cache
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfo.cs
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CoreCompileInputs.cache
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CopyComplete
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\refint\Tre-i-rad.dll
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.pdb
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.genruntimeconfig.cache
+C:\Users\timst\Downloads\Tre-i-rad_2_Klar\Tre-i-rad_2_Klar\Tre-i-rad_2\Tre-i-rad\obj\Debug\net7.0\ref\Tre-i-rad.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.exe
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.deps.json
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.runtimeconfig.json
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.pdb
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.Asio.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.Core.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.Midi.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.Wasapi.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.WinMM.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.AssemblyReference.cache
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.GeneratedMSBuildEditorConfig.editorconfig
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfoInputs.cache
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfo.cs
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CoreCompileInputs.cache
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CopyComplete
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\refint\Tre-i-rad.dll
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.pdb
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.genruntimeconfig.cache
+E:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\ref\Tre-i-rad.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.exe
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.deps.json
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.runtimeconfig.json
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\Tre-i-rad.pdb
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.Asio.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.Core.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.Midi.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.Wasapi.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\bin\Debug\net7.0\NAudio.WinMM.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.AssemblyReference.cache
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.GeneratedMSBuildEditorConfig.editorconfig
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfoInputs.cache
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.AssemblyInfo.cs
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CoreCompileInputs.cache
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.csproj.CopyComplete
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\refint\Tre-i-rad.dll
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.pdb
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\Tre-i-rad.genruntimeconfig.cache
+D:\skolprojekt\år 2\objekt orienterad design\Tre-i-rad_Klar\Tre-i-rad\obj\Debug\net7.0\ref\Tre-i-rad.dll
